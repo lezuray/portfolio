@@ -1,7 +1,7 @@
 body {
   background-color: yellow;
 }
-.name {
+#name {
   color: brown;
   font-family: 'Open Sans', sans-serif;
 }
